@@ -1,0 +1,10 @@
+#images-grid {
+    position: relative;
+}
+#images-grid img {
+    position: absolute;
+    vertical-align: top;
+    margin: 2px;
+    width: calc( 25% - 4px );
+    height: auto;
+}
